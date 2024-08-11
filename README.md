@@ -1,16 +1,12 @@
 ### Hi there 👋
+<br /><br /><br /><br /><br />
 
 
-
-
-
-
-
-eth: 0xB8570549ee9fE98c2beb0081Be2A1A8e1e21890b
-bitcoin: bc1q029ne6563r63spgd870mfrfcgkt2gjtgh7dhg5
-solana: 5zNxkijTzbfHLDm2d5Xp4vZUNnhgAPPx7wzZgPMzAGRA
-ton: UQCOS-yFmJgmaZqw2--sbGraBGs4dv_bp1lcbNkWuyiqtE3n
-npub:  npub15ft3nen4fz67hshux9ghn9f49r93pqvqwkqsv30jlvuwxjddsvwqsf2mff
+- eth: 0xB8570549ee9fE98c2beb0081Be2A1A8e1e21890b
+- bitcoin: bc1q029ne6563r63spgd870mfrfcgkt2gjtgh7dhg5
+- solana: 5zNxkijTzbfHLDm2d5Xp4vZUNnhgAPPx7wzZgPMzAGRA
+- ton: UQCOS-yFmJgmaZqw2--sbGraBGs4dv_bp1lcbNkWuyiqtE3n
+- npub:  npub15ft3nen4fz67hshux9ghn9f49r93pqvqwkqsv30jlvuwxjddsvwqsf2mff
 <!--
 **baltarifcan/baltarifcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
